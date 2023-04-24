@@ -12,8 +12,7 @@ class UngDungThuKinh extends Component {
       </div>;
     });
   };
-
-  
+ 
   render() {
     return (
       <div className="wrapper">
